@@ -1,0 +1,60 @@
+2023-01-24 21:50:11,761 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-24 21:50:11,762 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-24 21:50:11,763 [INFO]  * Restarting with stat
+2023-01-24 21:50:11,912 [WARNING]  * Debugger is active!
+2023-01-24 21:50:11,925 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:51:22,091 [INFO] 2023-01-24 21:51:22.090975 [INFO] Запрос /api/posts/1
+2023-01-24 21:51:22,095 [INFO] 127.0.0.1 - - [24/Jan/2023 21:51:22] "GET /api/posts/1 HTTP/1.1" 200 -
+2023-01-24 21:51:53,797 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/api/views.py', reloading
+2023-01-24 21:51:53,819 [INFO]  * Restarting with stat
+2023-01-24 21:51:54,027 [WARNING]  * Debugger is active!
+2023-01-24 21:51:54,041 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:52:09,257 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/api/views.py', reloading
+2023-01-24 21:52:09,280 [INFO]  * Restarting with stat
+2023-01-24 21:52:09,439 [WARNING]  * Debugger is active!
+2023-01-24 21:52:09,451 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:56:10,452 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 21:56:10,479 [INFO]  * Restarting with stat
+2023-01-24 21:56:10,667 [WARNING]  * Debugger is active!
+2023-01-24 21:56:10,680 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:56:21,831 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 21:56:21,857 [INFO]  * Restarting with stat
+2023-01-24 21:56:22,013 [WARNING]  * Debugger is active!
+2023-01-24 21:56:22,025 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:56:47,434 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 21:56:47,456 [INFO]  * Restarting with stat
+2023-01-24 21:56:47,614 [WARNING]  * Debugger is active!
+2023-01-24 21:56:47,626 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:56:55,741 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 21:56:55,766 [INFO]  * Restarting with stat
+2023-01-24 21:56:55,918 [WARNING]  * Debugger is active!
+2023-01-24 21:56:55,929 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:57:46,488 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 21:57:46,512 [INFO]  * Restarting with stat
+2023-01-24 21:57:46,666 [WARNING]  * Debugger is active!
+2023-01-24 21:57:46,678 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:58:54,956 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 21:58:54,980 [INFO]  * Restarting with stat
+2023-01-24 21:58:55,176 [WARNING]  * Debugger is active!
+2023-01-24 21:58:55,193 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:59:01,259 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 21:59:01,279 [INFO]  * Restarting with stat
+2023-01-24 21:59:01,431 [WARNING]  * Debugger is active!
+2023-01-24 21:59:01,443 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 21:59:42,882 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 21:59:42,905 [INFO]  * Restarting with stat
+2023-01-24 21:59:43,077 [WARNING]  * Debugger is active!
+2023-01-24 21:59:43,090 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 22:00:14,465 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 22:00:14,487 [INFO]  * Restarting with stat
+2023-01-24 22:00:14,678 [WARNING]  * Debugger is active!
+2023-01-24 22:00:14,691 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 22:00:59,352 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 22:00:59,374 [INFO]  * Restarting with stat
+2023-01-24 22:00:59,552 [WARNING]  * Debugger is active!
+2023-01-24 22:00:59,563 [INFO]  * Debugger PIN: 679-640-936
+2023-01-24 22:02:17,720 [INFO]  * Detected change in '/Users/daniilmurzin333/PycharmProjects/coursework/tests/api_test.py', reloading
+2023-01-24 22:02:17,740 [INFO]  * Restarting with stat
+2023-01-24 22:02:17,931 [WARNING]  * Debugger is active!
+2023-01-24 22:02:17,944 [INFO]  * Debugger PIN: 679-640-936
